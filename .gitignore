@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Electron cache and crash logs
+*.log
+*.tmp
+electron-out/
+
+# macOS system files
+.DS_Store
+
+# VSCode configs
+.vscode/
+
+# Environment variables and personal config
+.env
+*.local
+
+# OS-specific
+Thumbs.db
